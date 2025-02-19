@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+node_modules
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+bun.lock
+.cdk.staging
+cdk.out
+
+requirements.txt
